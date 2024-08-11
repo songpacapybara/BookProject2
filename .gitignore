@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.gradle/5.2.1/fileContent/
+.gradle/5.2.1/fileHashes/resourceHashesCache.bin
+.gradle/5.2.1/javaCompile/
+.gradle/5.2.1/vcsMetadata-1/
+build/
+src/main/resources/
+src/test/resources/
